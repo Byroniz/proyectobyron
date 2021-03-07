@@ -1,0 +1,291 @@
+    .hero-image{
+        height: 125vh;
+        background-image: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)),url(./img/Xiao.gif);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .img-lg{
+        width: 300px;
+        height: 300px;
+    }
+
+    .content{
+        height: 100vh;
+    }
+
+    .titulo{
+        position: absolute;
+        width: 600px;
+        height: 174px;
+        left: 98px;
+        top: 81px;
+        
+        font-family: Roboto;
+        font-style: italic;
+        font-weight: 200;
+        font-size: 72px;
+        line-height: 84px;
+        text-align: center;
+        
+        color: #E5E5E5;
+    }
+
+    .descripcion{
+        position: absolute;
+        width: 423px;
+        height: 170px;
+        left: 176px;
+        top: 301px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 36px;
+        line-height: 42px;
+        text-align: center;
+
+        color: #E5E5E5;
+    }
+
+    .descripcion2{
+        position: absolute;
+        width: 409px;
+        height: 183px;
+        left: 201px;
+        top: 517px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 36px;
+        line-height: 42px;
+        text-align: center;
+
+        color: #E5E5E5;
+    }
+
+    .contenedor{
+        height: 100vh;
+    }
+
+    .img-collage{
+        background-image: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)),url("./img/codigofoto.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: absolute;
+        height: 100vh;
+    }
+
+    .contendor-description{
+    background-color: #1D1D2B;
+    height: 100vh;
+    }
+
+    .description {
+        position: absolute;
+        left: 780px;
+        margin-top: 50px;
+        
+
+        font-family: Roboto;
+        font-style: italic;
+        font-weight: 200;
+        font-size: 1.3rem;
+        line-height: 84px;
+        text-align: center;
+
+        color: #E5E5E5;
+    }
+
+
+    .title2{
+        position: absolute;
+        width: 678px;
+        height: 113px;
+        left: 631px;
+        top: 1109px;
+
+        font-family: Roboto;
+        font-style: italic;
+        font-weight: 200;
+        font-size: 72px;
+        line-height: 84px;
+        text-align: center;
+
+        color: #E5E5E5;
+    }
+
+    .title-img {
+        position: absolute;
+        left: 750px;
+    }
+  
+    .contenedor3 {
+        background-color: #151523;
+        height: 200vh;
+    }
+    
+    .titulo3 {
+        margin-left: 2%;
+        color: #e5e5e5;
+        width: 470px;
+        
+    }
+
+    .imgphp{
+      position: absolute;
+      width: 335px;
+      height: 213.29px;
+      left: 94px;
+      top: 1610px;    
+    }
+
+    .titulophpt{
+      position: absolute;
+      width: 335px;
+      height: 213.29px;
+      left: 94px;
+      top: 1960px;
+    }
+
+    .parrafo1php{
+        position: absolute;
+        width: 335px;
+        height: 213.29px;
+        left: 94px;
+        top: 2000px;
+    }
+    .parrafo2php{
+        position: absolute;
+        width: 335px;
+        height: 213.29px;
+        left: 94px;
+        top: 2025px;
+    }
+    .parrafo3php{
+        position: absolute;
+        width: 335px;
+        height: 213.29px;
+        left: 94px;
+        top: 2050px;
+    }
+    .parrafo4php{
+        position: absolute;
+        width: 335px;
+        height: 213.29px;
+        left: 94px;
+        top: 2080px;
+    }
+
+
+    .imghtml{
+        position: absolute;
+        width: 335px;
+        height: 300px;
+        left: 515px;
+        top: 1570px;
+    }
+
+    .parrafohtml{
+        position: absolute;
+        width: 314px;
+        height: 418.82px;
+        left: 542px;
+        text-align: center;
+        top: 2000px;
+    }
+
+    .titulohtmlt{
+        position: absolute;
+        width: 314px;
+        height: 418.82px;
+        left: 542px;
+        text-align: center;
+        top: 1960px;
+    }
+
+    
+    .imgcss{
+       position: absolute;
+       width: 335px;
+       height: 300px;
+       left: 974px;
+       top: 1570px;
+    }
+
+    .parrafocss{
+        position: absolute;
+        width: 314px;
+        height: 418.82px;
+        left: 989px;
+        text-align: center;
+        top: 2000px;
+
+    }
+
+    .titulocsst{
+        position: absolute;
+        width: 314px;
+        height: 418.82px;
+        left: 989px;
+        text-align: center;
+        top: 1960px;
+    }
+  
+    .contenedor4{
+        background-color: #1D1D2B;
+        height: 100vh;
+    }
+     
+    .titulo4{
+
+        position: absolute;
+        width: 662px;
+        height: 138px;
+        left: 345px;
+        top: 2650px;
+        
+        font-family: Roboto;
+        font-style: italic;
+        font-weight: 200;
+        font-size: 72px;
+        line-height: 84px;
+        text-align: center;
+        
+        color: #E5E5E5;
+
+    }
+    .imgfacebook{
+        position: absolute;
+        width: 152px;
+        height: 152px;
+        left: 100px;
+        top: 3000px;
+    }
+
+    .imggithub{
+        position: absolute;
+        width: 152px;
+        height: 152px;
+        left: 400px;
+        top: 3000px;
+
+    }
+
+    .imginstagram{
+        position: absolute;
+        width: 152px;
+        height: 152px;
+        left: 700px;
+        top: 3000px;
+    }
+
+
+    .imgtwitter{
+        position: absolute;
+        width: 152px;
+        height: 152px;
+        left: 1000px;
+        top: 3000px;
+    }
